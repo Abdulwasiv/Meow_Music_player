@@ -17,7 +17,7 @@
 
 
 
-
+Meow is a music streaming platform that offers millions of songs of different genres to users1 with help of SPOTIFY API. It helps gain an advantage in the lucrative streaming industry1. A Spotify Clone page displays the artist's name with the songs they composed, and the songs by the artist will be displayed with a number of listeners2. There are also examples of people who have cloned Spotify using REACT JS,METERIAL UI,CSS,CONTEXT API
 
 # Getting Started with Create React App
 
