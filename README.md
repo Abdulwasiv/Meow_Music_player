@@ -1,3 +1,24 @@
+
+
+
+![1](https://github.com/Abdulwasiv/Meow_Music_player/assets/113840728/da87bcc8-d572-4a7d-ad99-2c282abd2d57)
+
+
+
+![2](https://github.com/Abdulwasiv/Meow_Music_player/assets/113840728/0b6e83a1-068d-4940-8a08-54c56637915f)
+![3](https://github.com/Abdulwasiv/Meow_Music_player/assets/113840728/33716332-38b2-4b84-80da-15d676b96f0f)
+
+
+
+
+
+![4](https://github.com/Abdulwasiv/Meow_Music_player/assets/113840728/71ee029e-75f7-47d5-b75e-177d98cc306f)
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
