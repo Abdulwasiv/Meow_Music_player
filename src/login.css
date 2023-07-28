@@ -1,0 +1,35 @@
+.logins
+{
+ place-items: center;
+ height: 100vh;
+ display: grid;
+ background-color: rgb(0, 0, 0);
+
+}
+.para
+{
+ color: aliceblue;
+ font-family:Georgia, 'Times New Roman', Times, serif;
+ align-items: center;
+ margin-top: 190px;
+ font-size:200px;
+}
+.para1{
+ color:rgb(83, 85, 87);
+}
+.logins > img
+{
+ width: 100%;
+}
+
+.logins > a
+{
+ padding: 20px;
+ border-radius: 100px;
+ background-color:white;
+ color: black;
+ font-weight: 800;
+ cursor: pointer;
+ text-decoration: none;
+
+} 

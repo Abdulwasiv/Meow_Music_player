@@ -1,0 +1,30 @@
+.head{
+ display: flex;
+ justify-content: space-between;
+ margin-bottom: 30px;
+}
+
+.h_left{
+ background-color: rgb(255, 255, 255);
+ color: rgb(0, 0, 0);
+ border-radius: 30px;
+ padding: 10px;
+ display: flex;
+ min-width: 40px;
+ margin: 20px;
+ align-items: center;
+ flex: 0.5;
+}
+
+.h_left>input{
+ border: none;
+ width: 100%;
+}
+.h_right{
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+}
+.h_right>h3{
+ margin-left: 10px;
+}

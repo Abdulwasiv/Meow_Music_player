@@ -1,0 +1,33 @@
+.slide{
+border: 1px solid black;
+height: 100vh;
+flex: 0.2;
+min-width: 230px;
+height: 100vh;
+
+padding-right: 1px;
+background-color: rgb(51, 48, 48);
+}
+.slide_bar
+{
+ 
+ height: 70px;
+ padding: 10px;
+ text-align: center;
+ margin-left: -46px;
+ font-size: 50px;
+ margin-right: auto;
+}
+.new{
+ color: rgb(0, 0, 0);
+}
+.font{
+ color:aliceblue;
+ 
+ width: 90%;
+ margin-left: 20px;
+}
+.play{
+ margin-top: 20px;
+ margin-left: 56px;
+}

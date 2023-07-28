@@ -1,0 +1,19 @@
+.slide_opt
+{
+ display: flex;
+ height: 50px;
+ color: aliceblue;
+ cursor: pointer;
+ transition: 200ms color ease-in;
+}
+
+.slide_opt:hover{
+ color: rgb(0, 0, 0);
+}
+
+.icon{ 
+ padding-left: 10px;
+ padding-right: 10px;
+ margin-left: 20px;
+}
+

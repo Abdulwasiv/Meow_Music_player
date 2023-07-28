@@ -1,0 +1,27 @@
+.body{
+ border: 1px solid black;
+ flex: 0.8;
+ overflow-y: overlay;
+ height: 100vh;
+ background-color: rgb(20, 20, 20);
+}
+.body::-webkit-scrollbar{
+  display: none;
+}
+.B-info{
+ display:flex;
+ align-items: center;
+ padding: 10px;
+}
+.body_infoText
+{
+ flex:1px;
+}
+.body_songs{
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+  margin: 30px;
+  padding: 10px;
+  
+}
